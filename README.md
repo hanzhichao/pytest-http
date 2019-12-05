@@ -1,6 +1,6 @@
 # pytest-http
 
-Pytest使用json,yaml等数据文件
+Pytest发送HTTP请求
 
 ---
 
